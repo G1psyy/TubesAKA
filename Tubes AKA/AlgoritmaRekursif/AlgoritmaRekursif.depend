@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735419853 source:d:\c++ code\algoritmarekursif\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<chrono>
+

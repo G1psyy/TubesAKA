@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735420133 source:d:\c++ code\algoritmaiteratif\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<chrono>
+
